@@ -372,7 +372,7 @@ DEPENDENCIES:
   - ReactCommon/turbomodule/samples (from `../node_modules/react-native/ReactCommon`)
   - "RNCMaskedView (from `../node_modules/@react-native-community/masked-view`)"
   - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
-  - RNReanimated (from `../../`)
+  - RNReanimated (from `../node_modules/react-native-reanimated`)
   - RNScreens (from `../node_modules/react-native-screens`)
   - RNSVG (from `../node_modules/react-native-svg`)
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
@@ -445,7 +445,7 @@ EXTERNAL SOURCES:
   RNGestureHandler:
     :path: "../node_modules/react-native-gesture-handler"
   RNReanimated:
-    :path: "../../"
+    :path: "../node_modules/react-native-reanimated"
   RNScreens:
     :path: "../node_modules/react-native-screens"
   RNSVG:
@@ -492,6 +492,6 @@ SPEC CHECKSUMS:
   RNSVG: ce9d996113475209013317e48b05c21ee988d42e
   Yoga: 8c8436d4171c87504c648ae23b1d81242bdf3bbf
 
-PODFILE CHECKSUM: 3c4efd7478fece59c7f6ace18b854ce018bd47a1
+PODFILE CHECKSUM: 1e751d8444c0e0898e22151ff45a725df090918a
 
 COCOAPODS: 1.10.1
